@@ -1,0 +1,17 @@
+D:\Aplikasihotel\Aplikasihotel\bin\Debug\net6.0-windows\Aplikasihotel.exe
+D:\Aplikasihotel\Aplikasihotel\bin\Debug\net6.0-windows\Aplikasihotel.deps.json
+D:\Aplikasihotel\Aplikasihotel\bin\Debug\net6.0-windows\Aplikasihotel.runtimeconfig.json
+D:\Aplikasihotel\Aplikasihotel\bin\Debug\net6.0-windows\Aplikasihotel.dll
+D:\Aplikasihotel\Aplikasihotel\bin\Debug\net6.0-windows\Aplikasihotel.pdb
+D:\Aplikasihotel\Aplikasihotel\obj\Debug\net6.0-windows\Aplikasihotel.csproj.AssemblyReference.cache
+D:\Aplikasihotel\Aplikasihotel\obj\Debug\net6.0-windows\Aplikasihotel.Form1.resources
+D:\Aplikasihotel\Aplikasihotel\obj\Debug\net6.0-windows\Aplikasihotel.csproj.GenerateResource.cache
+D:\Aplikasihotel\Aplikasihotel\obj\Debug\net6.0-windows\Aplikasihotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplikasihotel\Aplikasihotel\obj\Debug\net6.0-windows\Aplikasihotel.AssemblyInfoInputs.cache
+D:\Aplikasihotel\Aplikasihotel\obj\Debug\net6.0-windows\Aplikasihotel.AssemblyInfo.cs
+D:\Aplikasihotel\Aplikasihotel\obj\Debug\net6.0-windows\Aplikasihotel.csproj.CoreCompileInputs.cache
+D:\Aplikasihotel\Aplikasihotel\obj\Debug\net6.0-windows\Aplikasihotel.dll
+D:\Aplikasihotel\Aplikasihotel\obj\Debug\net6.0-windows\refint\Aplikasihotel.dll
+D:\Aplikasihotel\Aplikasihotel\obj\Debug\net6.0-windows\Aplikasihotel.pdb
+D:\Aplikasihotel\Aplikasihotel\obj\Debug\net6.0-windows\Aplikasihotel.genruntimeconfig.cache
+D:\Aplikasihotel\Aplikasihotel\obj\Debug\net6.0-windows\ref\Aplikasihotel.dll
